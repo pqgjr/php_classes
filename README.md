@@ -1,4 +1,4 @@
 php_classes
 ===========
 
-My php classes - accessable worldwide.
+My remote php classes.
